@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HENRI_IV.aternos.me ",
+    "ip": "HENRI_IV.aternos.me",
     "port": 40533,
     "version": "1.21.1"
   },
